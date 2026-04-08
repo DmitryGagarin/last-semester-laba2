@@ -1,6 +1,6 @@
-ruff
-pytest
-httpx
-fastapi
-uvicorn
-pydantic
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.8.0
+pytest==7.4.4
+httpx==0.25.2
+black==24.10.0
